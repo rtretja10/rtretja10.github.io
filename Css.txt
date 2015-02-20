@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    width: 70px;
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#html">Html</a></li>
+  <li><a href="#About">About</a></li>
+  <li><a href="#Css">Css</a></li>
+  <li><a href="#about css">About-Css</a></li>
+</ul>
